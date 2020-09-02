@@ -1,0 +1,75 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj",
+    "projectName": "DistributedComputeLib",
+    "projectPath": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj",
+    "outputPath": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\DistributedComputeLib\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "sources": {
+      "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\nuget": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj": {
+            "projectPath": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj"
+          },
+          "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+            "projectPath": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj"
+          },
+          "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj": {
+            "projectPath": "C:\\SoftwareEngineering\\Project-2019-20\\Source\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "Akka.Remote": {
+          "target": "Package",
+          "version": "[1.3.12, )"
+        },
+        "ImageBinarizer": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

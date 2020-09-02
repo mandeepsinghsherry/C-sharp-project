@@ -1,0 +1,491 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit1.PNG
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit7.png
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit8.png
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\rec-center-hourly-short.csv
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\rec-center-hourly-very-short.csv
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\simple-sequence.csv
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.runtimeconfig.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.runtimeconfig.dev.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Akka.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\LearningApi.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Data.DataView.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.FastTree.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardLearners.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\testhost.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeuralNet.MLPerceptron.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeuralNetworks.Core.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Management.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\WebSocketNeuroVisualizer.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\WebSocketNeuroVisualizer.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.csproj.CopyComplete
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit1.PNG
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit7.png
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\digit8.png
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\rec-center-hourly-short.csv
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\rec-center-hourly-very-short.csv
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TestFiles\simple-sequence.csv
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.runtimeconfig.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.runtimeconfig.dev.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\UnitTestsProject.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Akka.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\LearningApi.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Data.DataView.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.FastTree.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardLearners.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.Utilities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\testhost.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeuralNet.MLPerceptron.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeuralNetworks.Core.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Management.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\WebSocketNeuroVisualizer.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\WebSocketNeuroVisualizer.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.csproj.CopyComplete
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\obj\Debug\netcoreapp3.0\UnitTestsProject.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\PredictionImages\apple.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TrainedImages\apple1.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TrainedImages\apple2.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TrainedImages\apple3.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\TrainedImages\apple4.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\OutputBinarizedImages\apple.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\PredictionImages\banana.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\PredictionImages\ananas.jpg
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\UnitTestsProject\bin\Debug\netcoreapp3.0\PredictionImages\chilli.jpg

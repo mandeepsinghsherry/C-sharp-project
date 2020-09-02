@@ -1,0 +1,30 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb

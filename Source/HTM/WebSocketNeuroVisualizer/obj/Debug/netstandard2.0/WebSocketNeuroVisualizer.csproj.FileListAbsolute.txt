@@ -1,0 +1,38 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexApi.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.csproj.CopyComplete
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\WebSocketNeuroVisualizer.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexApi.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.csproj.CopyComplete
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\WebSocketNeuroVisualizer\obj\Debug\netstandard2.0\WebSocketNeuroVisualizer.pdb

@@ -1,0 +1,16 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache

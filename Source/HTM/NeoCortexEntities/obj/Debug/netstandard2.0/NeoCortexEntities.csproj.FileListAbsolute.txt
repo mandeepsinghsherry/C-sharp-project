@@ -1,0 +1,22 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb

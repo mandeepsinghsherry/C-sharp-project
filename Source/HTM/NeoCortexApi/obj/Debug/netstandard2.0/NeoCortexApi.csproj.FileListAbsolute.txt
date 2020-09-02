@@ -1,0 +1,34 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb

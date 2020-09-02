@@ -1,0 +1,16 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb

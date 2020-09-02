@@ -1,0 +1,16 @@
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+C:\Users\MANDEEP SINGH SHERRY\Desktop\latestcode\se-cloud-2019-2020\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+C:\SoftwareEngineering\Project-2019-20\Source\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
